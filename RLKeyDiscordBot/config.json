@@ -1,0 +1,10 @@
+{
+  "fetchDelay": 60,
+  "DecryptorPath": "assets//Decryptor.zip",
+  "UEEDllsPath": "assets//UEE-dlls.zip",
+  "UEEPath": "assets//UEE.zip",
+  "UmodelPath": "assets//UModel.zip",
+  "AssetExtractorPath": "assets//AssetExtractor.zip",
+  "KeysPath": "assets//keys.txt",
+  "DiscordBotToken":  "setme" 
+}
